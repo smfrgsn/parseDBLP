@@ -1,0 +1,13 @@
+searchDBLP <- function(searchString) {
+  
+  
+  #  
+  
+  
+  #
+  
+  
+  #
+  
+  
+}
